@@ -1,6 +1,6 @@
 # Web Profile - Web Developer [Waqar Ahmed]
 
-I made my web profile and hosted to Github Pages to showcase my web projects. This webpage is developed by using bootstrap. 
+I made this web profile and hosted to Github Pages to showcase my web projects. This webpage is developed by using bootstrap. 
 
 - You may find some data outdated. (Last updated years ago :D)
 
